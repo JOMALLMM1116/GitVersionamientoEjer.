@@ -2,4 +2,4 @@
 
 ## EMERSON modificar tambien el README
 
-## Anthony hacer contribuciones
+## Anthony hacer contribucionesgit status
